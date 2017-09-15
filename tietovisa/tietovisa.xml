@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tietovisa>
+  <nimi>Mielikuvitussankarit</nimi>
+  <tekijä>Tuomas Puro</tekijä>
+  <pvm>31.10.2014</pvm>
+  <taso pisteet="10">
+    <kysymys>Mikä on Batmanin oikea nimi?</kysymys>
+    <vastaus oikein="ok">Bruce Wayne</vastaus>
+    <vastaus>Jaakko Kolmonen</vastaus>
+    <vastaus>Clark Kent</vastaus>
+    <vastaus>Isaac Elliot</vastaus>
+  </taso>
+  <taso pisteet="9">
+    <kysymys>Mikä on Austin Powersin koodinumero?</kysymys>
+    <vastaus>666</vastaus>
+    <vastaus>0100100</vastaus>
+    <vastaus>008</vastaus>
+    <vastaus oikein="ok">006</vastaus>
+    <vastaus>1000000</vastaus>
+  </taso>
+  <taso pisteet="10">
+    <kysymys>Mikä on hätänä?</kysymys>
+    <vastaus oikein="ok">Pissa</vastaus>
+    <vastaus>Haukotus</vastaus>
+    <vastaus>Hikka</vastaus>
+  </taso>
+  <taso pisteet="4">
+    <kysymys>Kuka on Suomen presidentti vuonna 2014?</kysymys>
+    <vastaus>Jyrki Sukula</vastaus>
+    <vastaus>Gordon Ramsey</vastaus>
+    <vastaus>Sauli Niinistö</vastaus>
+  </taso>
+</tietovisa>

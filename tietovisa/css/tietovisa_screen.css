@@ -1,0 +1,59 @@
+/* tietovisa_screen.css */
+.kysymys {
+	margin: 10px;
+	padding: 20px;
+	border: 1px solid #333;
+	border-radius: 3px;
+}
+
+.painikkeet {
+	margin-bottom: 10px;
+	clear: both;
+}
+
+.painikkeet a {
+	display: inline-block;
+	width: 10em;
+	text-align: center;
+	font-family: sans-serif;
+	margin: 0px;
+	padding: 10px;
+	border-radius: 5px;
+	background-color: red;
+	color: white;
+	text-decoration: none;
+}
+
+.painikkeet a:hover {
+	background-color: green;
+}
+
+form ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+form li {
+	margin: 10px;
+}
+
+dl {
+width: 200px;
+margin: 10px;
+border: solid 1px #777;
+padding: 10px;
+}
+
+dt {
+	margin: 0;
+	padding: 5px;
+	font-weight: bold;
+	background-color: #eee;
+	clear: both;
+}
+dd {
+	margin: 0;
+	padding: 0;
+	padding: 5px;
+}
